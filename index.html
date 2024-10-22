@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shooting Game with Control Panel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <canvas id="gameCanvas"></canvas>
+        <div id="score">Score: 0</div>
+        <div id="lives">Lives: 3</div>
+        <div id="game-over" class="hidden">Game Over! Your final score is: <span id="final-score"></span></div>
+        <!-- Control Panel for Smartphone and Desktop -->
+        <div class="control-panel">
+            <button id="leftBtn">⬅️Left</button>
+            <button id="shootBtn">🔫Shoot</button>
+            <button id="rightBtn">Right➡️</button>
+          
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

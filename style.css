@@ -1,0 +1,61 @@
+/* style.css */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #7d8b3b;
+    font-family: Arial, sans-serif;
+}
+
+.game-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#gameCanvas {
+    border: 2px solid white;
+    background-color: #000;
+}
+
+#score, #lives {
+    margin-top: 10px;
+    font-size: 24px;
+    color: white;
+}
+
+#game-over {
+    font-size: 28px;
+    color: red;
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.control-panel {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.control-panel button {
+    width: 80px;
+    height: 50px;
+    margin: 0 10px;
+    font-size: 18px;
+    background-color: #4017bc;
+    color: white;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.control-panel button:active {
+    background-color: #555;
+}
