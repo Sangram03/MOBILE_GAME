@@ -32,7 +32,7 @@ Get ready to take on the role of a fearless space pilot in **Space Defender**! T
    - On desktop, use the left and right arrow keys for movement and click to shoot.
 
 ### **🚀 Are You Ready?**
-Prepare for an exhilarating gaming experience that tests your reflexes and aiming skills! Join the fight in **Space Defender** and see how high you can score while defending your spaceship from incoming threats! 
+Prepare for an exhilarating gaming experience that tests your reflexes and aiming skills! Join the fight in **Space Defender** and see how high you can score while defending your spaceship from incoming threats! 👈👉
 
 --- 
 
